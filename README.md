@@ -1,6 +1,6 @@
 # e-Portfolio 3 – Intellectual Property
 
-![Intellectual Property – COIT11223 e-Portfolio 3](images/header-intellectual-property.png)
+![Intellectual Property – COIT11223 e-Portfolio 3](header-intellectual-property.png)
 
 A collection of artefacts that demonstrate what I have learnt about Intellectual Property this week.
 
@@ -10,7 +10,7 @@ A collection of artefacts that demonstrate what I have learnt about Intellectual
 
 <https://www.youtube.com/watch?v=1A74lC0tHH0>
 
-![Artefact 1 – Copyright and AI output](images/artefact1-copyright-and-ai-output.png)
+![Artefact 1 – Copyright and AI output](artefact1-copyright-and-ai-output.png)
 
 ### Summary of the artefact
 
@@ -26,7 +26,7 @@ The video format worked best for me since I wanted someone to explain the report
 
 <https://www.abc.net.au/news/2026-07-14/copyright-law-battleground-in-australia-ai-boom/106891890>
 
-![Artefact 2 – Copyright and AI in Australia](images/artefact2-copyright-and-ai-in-australia.png)
+![Artefact 2 – Copyright and AI in Australia](artefact2-copyright-and-ai-in-australia.png)
 
 ### Artefact summary
 
@@ -42,7 +42,7 @@ Since nothing here is settled, I have chosen it instead of solved worked example
 
 <https://doi.org/10.1017/glj.2026.10190>
 
-![Artefact 3 – Who owns AI output?](images/artefact3-who-owns-ai-output.png)
+![Artefact 3 – Who owns AI output?](artefact3-who-owns-ai-output.png)
 
 ### Summary of the Artefact
 
@@ -56,9 +56,9 @@ What intrigued me was not a general warning but the actual use of the principle 
 
 ## Artefact 4: Workshop Personal Reflection
 
-![Artefact 4 – The monkey selfie question](images/artefact4-monkey-selfie-question.png)
+![Artefact 4 – The monkey selfie question](artefact4-monkey-selfie-question.png)
 
-![Week 7 workshop attendance](images/workshop-attendance-selfie.png)
+![Week 7 workshop attendance](workshop-attendance-selfie.png)
 
 ### Reflection on the artefact: My personal reflection
 
